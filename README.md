@@ -13,7 +13,8 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SVegasEltit/mat281_portfolio/master?urlpath=lab)
 
-* __Sebastián Vegas Eltit__  ##[My Page](https://www.linkedin.com/in/williamhgates/)
+* __Sebastián Vegas Eltit__  
+#[My Page](https://www.linkedin.com/in/williamhgates/)
 
 * __Repositorio Curso__:
     - [2019](https://github.com/aoguedao/mat281_2019S2)

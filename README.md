@@ -46,17 +46,13 @@ Para aquellos usuarios de Windows que quieran sacar partido, se recomienda mirar
 <!-- badges: start -->
 
 ![Python](https://img.shields.io/badge/python-3.10.14-blue)
-![Descargas](https://img.shields.io/pypi/dm/intracluster-filtering)
+![Descargas](https://img.shields.io/pypi/dm/intraclusterfiltering)
 
 <!-- badges: end -->
-## Portafolio Personal
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SVegasEltit/mat281_portfolio/master?urlpath=lab)
-
-* __Sebastián Vegas Eltit__  
 
 
-##Overview
+
+## Overview
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer augue metus, venenatis eu nunc semper, fermentum lobortis libero. Vivamus ultrices nisi ac elit imperdiet porttitor. Aenean nulla dui, aliquam at tellus sit amet, vehicula imperdiet tortor. Praesent porttitor non libero vitae dapibus. Nulla vulputate condimentum pretium. Sed euismod suscipit lorem ac scelerisque. Morbi lobortis magna eget pretium pellentesque. Nulla euismod condimentum magna. Nam ultricies, velit eget convallis facilisis, diam sapien elementum odio, ac auctor massa nisi id odio. Cras nec convallis tellus. Pellentesque congue eros eget leo tincidunt vestibulum. Sed ligula nisl, efficitur bibendum justo sed, ornare ullamcorper elit. Nulla condimentum felis eu mollis facilisis. Morbi luctus turpis lectus, a consectetur turpis lacinia at.
 
@@ -65,15 +61,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer augue metus, ve
 
 It is necessary to use Python **Versión 3.10.14** for the installation and proper functioning of the library.
 
-#### Step 1: Create a New Environment
+**Step 1:** Create a New Environment
 
 First, create a new environment with Python version 3.10.14.
 
-#### Step 2: Install Git
+**Step 2:** Install Git
 
 It is necessary to have Git installed for this installation. If you don't have Git installed, you can download it from [here](https://git-scm.com/downloads).
 
-#### Step 3: Install the Package
+**Step 3:** Install the Package
 
 In your console (e.g., Anaconda Prompt), execute the following commands:
 ```sh

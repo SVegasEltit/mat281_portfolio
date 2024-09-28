@@ -56,9 +56,10 @@ Para aquellos usuarios de Windows que quieran sacar partido, se recomienda mirar
 * __Sebastián Vegas Eltit__  
 
 
-* __Repositorio Curso__:
-    - [2019](https://github.com/aoguedao/mat281_2019S2)
-    - [2020](https://github.com/aoguedao/mat281_2020S2)
+##Overview
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer augue metus, venenatis eu nunc semper, fermentum lobortis libero. Vivamus ultrices nisi ac elit imperdiet porttitor. Aenean nulla dui, aliquam at tellus sit amet, vehicula imperdiet tortor. Praesent porttitor non libero vitae dapibus. Nulla vulputate condimentum pretium. Sed euismod suscipit lorem ac scelerisque. Morbi lobortis magna eget pretium pellentesque. Nulla euismod condimentum magna. Nam ultricies, velit eget convallis facilisis, diam sapien elementum odio, ac auctor massa nisi id odio. Cras nec convallis tellus. Pellentesque congue eros eget leo tincidunt vestibulum. Sed ligula nisl, efficitur bibendum justo sed, ornare ullamcorper elit. Nulla condimentum felis eu mollis facilisis. Morbi luctus turpis lectus, a consectetur turpis lacinia at.
+
 
 ## Installation Instructions
 
@@ -85,4 +86,9 @@ pip install git+https://github.com/juanzamorai/intracluster-filtering.git
 
 Once the installation is complete, you can start using the library. We recommend checking out the examples in the [`examples`](https://github.com/juanzamorai/intracluster-filtering/tree/main/examples) folder.
 
+## Usage
+
+Example. 
+
+[`examples`](https://github.com/juanzamorai/intracluster-filtering/tree/main/examples)
 

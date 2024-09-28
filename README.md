@@ -25,3 +25,64 @@
 Las instrucciones de uso se encuentran en [este](setup.md) siguiente archivo. 
 
 Para aquellos usuarios de Windows que quieran sacar partido, se recomienda mirar también [este](wsl_ds_toolkit.md) archivo, mostrando un entorno de trabajo con WSL.
+
+
+
+
+
+
+
+<header>
+<img src="./images/DIONN.png" width=200 alt="DIONN" align="left"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Logo_universidad_de_valparaiso_2008.svg" alt="UV" align="right"/>
+</header>
+</br></br></br></br></br>
+
+</br>
+</br>
+
+# DIONN - Intra Cluster Filtering
+
+<!-- badges: start -->
+
+![Python](https://img.shields.io/badge/python-3.10.14-blue)
+![Descargas](https://img.shields.io/pypi/dm/intracluster-filtering)
+
+<!-- badges: end -->
+## Portafolio Personal
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SVegasEltit/mat281_portfolio/master?urlpath=lab)
+
+* __Sebastián Vegas Eltit__  
+
+
+* __Repositorio Curso__:
+    - [2019](https://github.com/aoguedao/mat281_2019S2)
+    - [2020](https://github.com/aoguedao/mat281_2020S2)
+
+## Installation Instructions
+
+It is necessary to use Python **Versión 3.10.14** for the installation and proper functioning of the library.
+
+#### Step 1: Create a New Environment
+
+First, create a new environment with Python version 3.10.14.
+
+#### Step 2: Install Git
+
+It is necessary to have Git installed for this installation. If you don't have Git installed, you can download it from [here](https://git-scm.com/downloads).
+
+#### Step 3: Install the Package
+
+In your console (e.g., Anaconda Prompt), execute the following commands:
+```sh
+# Activate your environment
+conda activate YourRepository
+
+# Install the package from GitHub
+pip install git+https://github.com/juanzamorai/intracluster-filtering.git
+```
+
+Once the installation is complete, you can start using the library. We recommend checking out the examples in the [`examples`](https://github.com/juanzamorai/intracluster-filtering/tree/main/examples) folder.
+
+
